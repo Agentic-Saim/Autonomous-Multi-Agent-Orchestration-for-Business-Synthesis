@@ -1,8 +1,8 @@
-# 🧠 Nexus Intelligence
+﻿# 🧠 Nexus Intelligence
 ### *Autonomous Multi-Agent Orchestration for Business Synthesis*
 
-[![Status](https://img.shields.io/badge/Status-Production--Ready-blueviolet?style=for-the-badge)](https://github.com/m-shamim09)
-[![Core](https://img.shields.io/badge/Architecture-Planner--Synthesizer-00ff00?style=for-the-badge)](https://github.com/m-shamim09)
+[![Status](https://img.shields.io/badge/Status-Production--Ready-blueviolet?style=for-the-badge)](https://github.com/agentic-saim09)
+[![Core](https://img.shields.io/badge/Architecture-Planner--Synthesizer-00ff00?style=for-the-badge)](https://github.com/agentic-saim09)
 [![License](https://img.shields.io/badge/License-MIT-white?style=for-the-badge)](LICENSE)
 
 ---
@@ -70,7 +70,7 @@ graph TD
 ### Deployment
 ```bash
 # Clone the intelligence hub
-git clone https://github.com/m-shamim09/Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis
+git clone https://github.com/agentic-saim09/Autonomous-Multi-Agent-Orchestration-for-Business-Synthesis
 
 # Enter the nucleus
 cd Nexus-Intelligence
@@ -106,10 +106,10 @@ Nexus is designed to be **Provider Agnostic**, supporting:
 ---
 
 ### 🏛️ Credits & Contact
-Nexus Intelligence is a vision-driven project developed by **m-shamim09**.
+Nexus Intelligence is a vision-driven project developed by **agentic-saim09**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=flat-square)](https://m-shamim09.pk)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square)](https://github.com/m-shamim09)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=flat-square)](https://agentic-saim09.pk)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square)](https://github.com/agentic-saim09)
 
 ---
 *Built for the future of agentic work.*
@@ -126,8 +126,8 @@ Nexus Intelligence is a vision-driven project developed by **m-shamim09**.
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
